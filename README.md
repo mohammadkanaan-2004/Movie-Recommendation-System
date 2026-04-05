@@ -35,10 +35,7 @@ git clone https://github.com/YOUR_USERNAME/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
 
 ---
- ✅ 6. Upload everything to GitHub (VERY IMPORTANT STEP)
 
-In terminal:
+👨‍💻 Author
 
-### Step 1:
-```bash
-cd ~/CRP-recommendation
+Mohammad Kanaan

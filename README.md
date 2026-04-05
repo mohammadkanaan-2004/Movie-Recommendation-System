@@ -33,3 +33,10 @@ It uses Natural Language Processing (NLP) techniques to understand movie context
 ```bash
 git clone https://github.com/YOUR_USERNAME/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
+# ✅ 6. Upload everything to GitHub (VERY IMPORTANT STEP)
+
+In terminal:
+
+### Step 1:
+```bash
+cd ~/CRP-recommendation

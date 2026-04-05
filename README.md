@@ -146,7 +146,6 @@ Movie_Recommendation_System_CRP.ipynb
 ## 👨‍💻 Author
 
 **Mohammad Kanaan**
-Computer Science Student
 
 ---
 
